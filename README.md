@@ -1,4 +1,4 @@
-# istagram_api_basic
+# Instagram API Basic
 
 Code snippets for the additional objective:
 
